@@ -1,3 +1,4 @@
+
 const express = require('express');
 const cors = require('cors'); // Assure-toi d'activer CORS si ton front-end est sur un domaine différent.
 const mysql = require('mysql');
