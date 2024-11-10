@@ -1,4 +1,4 @@
-import Header from './Header.jsx'
+
 import photoInterieur from './assets/oliur-ovrOPhu8vSw-unsplash.jpg';
 import photoExterieur from './assets/eyosias-g-Yi5Bt8HUQtI-unsplash.jpg';
 
@@ -8,7 +8,6 @@ function Prix(){
 
     return(<>
         <>
-            <Header></Header>
 
             <div className='flex justify-center pt-10'>
                 <div className=' grid grid-cols-2 w-1/2 gap-10' >

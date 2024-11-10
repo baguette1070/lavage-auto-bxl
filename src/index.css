@@ -2,6 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
+
 .taille-box-voiture{
     height: 600px;
 }

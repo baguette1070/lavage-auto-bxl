@@ -90,7 +90,7 @@ function Contact() {
                             required
                         ></textarea>
                     </div>
-                    <button type="submit" className="bg-teal-500 text-black text-opacity-80 px-4 py-2 font-bold rounded hover:bg-teal-600 hover:text-gray-200 transition duration-300">
+                    <button type="submit" className="active:bg-blue-500 bg-teal-500 text-black text-opacity-80 px-4 py-2 font-bold rounded hover:bg-teal-600 hover:text-gray-200 transition duration-300">
                         ENVOYER LE FORMULAIRE
                     </button>
                     {/* Message après soumission du formulaire */}
